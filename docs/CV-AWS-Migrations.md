@@ -1,6 +1,6 @@
 # Craig Simpson
 
-**Lead Cloud Migration Architect / Engineer**  
+**Lead Cloud Architect**  
 Cardiff, UK | Open to Remote & Relocation  
 +44 7466 734440 | **GitHub**: [OldManYellsAtK8s](https://github.com/OldManYellsAtK8s)
 
@@ -8,7 +8,7 @@ Cardiff, UK | Open to Remote & Relocation
 
 ## Professional Summary
 
-Lead Cloud Migration Architect with 10+ years of hands-on experience executing large-scale cloud transformations across AWS, Azure, OpenStack, and hybrid environments. Expert in designing and delivering complex migration strategies including on-premises exit, on-premises extension, and ClickOps-to-IaC modernization programmes.
+Lead Cloud Architect with 10+ years of hands-on experience executing large-scale cloud transformations across AWS, Azure, OpenStack, and hybrid environments. Expert in designing and delivering complex migration strategies including on-premises exit, on-premises extension, and ClickOps-to-IaC modernization programmes.
 
 Proven track record guiding enterprises through multi-cloud migrations, infrastructure-as-code adoption, and DevSecOps transformation. Trusted advisor to CTOs, CIOs, and engineering leaders for de-risking migrations and establishing operational excellence post-cutover.
 
